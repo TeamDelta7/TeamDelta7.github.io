@@ -2,7 +2,36 @@
 <html lang="en">
 
     <head>
+	    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Delta 7</title>
+  <!-- Include CSS files -->
 
+  <!-- Include jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Include Bootstrap JS -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- Include custom JavaScript for smooth scrolling -->
+  <script>
+    $(document).ready(function() {
+      // Smooth scrolling for navigation links
+      $('a.nav-link').on('click', function(event) {
+        if (this.hash !== '') {
+          event.preventDefault();
+          var hash = this.hash;
+          $('html, body').animate(
+            {
+              scrollTop: $(hash).offset().top
+            },
+            800,
+            function() {
+              window.location.hash = hash;
+            }
+          );
+        }
+      });
+    });
+  </script>
 	    
 	    
 	    
