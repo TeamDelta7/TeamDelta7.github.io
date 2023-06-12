@@ -420,11 +420,7 @@
                                 <div class="col-md-4 mix cat4 cat2">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf1.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf1.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/Siddarth.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Siddarth Nambiar</h3>
@@ -435,11 +431,7 @@
                                 <div class="col-md-4 mix cat4 cat1">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf2.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf2.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/aaaron.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Aaron Vincent</h3>
@@ -450,11 +442,7 @@
                                 <div class="col-md-4 mix cat2 cat4">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf3.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf3.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/akshaj.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Akshaj Shetty</h3>
@@ -465,11 +453,7 @@
                                 <div class="col-md-4 mix cat2 cat3">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf4.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf4.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/hader.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Haadee Bin Hafees</h3>
@@ -480,11 +464,7 @@
                                 <div class="col-md-4 mix cat3 cat4">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf5.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf5.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/Arun.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Arun Jose</h3>
@@ -495,11 +475,7 @@
                                 <div class="col-md-4 mix cat1 cat3">
                                     <div class="single_mixi_portfolio center">
                                         <div class="single_portfolio_img">
-                                            <img src="img/pf6.jpg" alt="" />
-                                            <div class="mixi_portfolio_overlay">
-                                                <a href="#!"><i class="fa fa-search"></i></a>
-                                                <a href="img/pf6.jpg" class="gallery-img"><i class="fa fa-link"></i></a>
-                                            </div>
+                                            <img src="newimg/Arun-1.png" alt="" />
                                         </div>
                                         <div class="single_portfolio_text">
                                             <h3>Hami Riyas</h3>
