@@ -39,16 +39,6 @@ h4 {
     line-height: 2rem;
     font-weight: 700;
 }
-.navbar{
-    background: #000;
-}
-.navbar-brand{
-    margin-left: -150px;
-    margin-top: .5rem;
-}
-.navbar-brand img{
-    margin-top: -300px;
-}
 .bg-primary {
     color: #3f444a!important;
     background-color: #000000!important;
