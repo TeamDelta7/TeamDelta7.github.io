@@ -264,6 +264,9 @@ nav ul li a:hover::after{
 .layer p{
     font-size: 10px;
 }
+.subber-text span{
+    color:#0F9EAB;
+}
 .work:hover img{
     transform: scale(1.1);
 }
