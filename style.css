@@ -372,6 +372,12 @@ nav .fa-solid{
 }
 
 @media only screen and (max-width: 600px){
+    *{
+        width: 100%;
+    }
+    html{
+        width: 100%;
+    }
     #header{
         background-image: url(Images/niga\ car\ 2\ 1.png);
         width: 160%;
@@ -407,7 +413,7 @@ nav .fa-solid{
     nav .fa-solid{
         position: absolute;
         top: 25px;
-        right: -150px;
+        left: 700px;
         cursor: pointer;
     }
     nav ul .fa-thin{
@@ -456,6 +462,7 @@ nav .fa-solid{
 }
 
 /*-------Animations-------*/
+
 @media only screen and (min-width: 1900px){
     .navbar {
         border-radius: 10px;
