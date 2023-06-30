@@ -303,7 +303,7 @@ nav ul li a:hover::after{
     flex-basis: wrap;
 }
 .buff img{
-    left: 0px;
+    left: 300px;
     position: relative;
     width: 70%;
 
