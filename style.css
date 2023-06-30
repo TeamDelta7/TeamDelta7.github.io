@@ -305,7 +305,7 @@ nav ul li a:hover::after{
 .buff img{
     left: 0px;
     position: relative;
-    width: 100%;
+    width: 70%;
 
 }
 .buff p{
